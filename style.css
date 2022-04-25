@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    position: center;
+}
+h3
+  {
+    font-size: 25px !important;
+  }
+  canvas {
+  	border:1px solid black;
+  }
+  
